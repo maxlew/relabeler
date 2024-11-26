@@ -12,6 +12,11 @@ example usage
 ./relabel.js --from foo,bar --to boop --api-key xxx
 ```
 
+and the readme 
+```
+could you generate me a readme file for this repo, make it a bit humorous and include links to where to generate github api keys as well as descriptions of all the options
+```
+
 # 🏷️ relabeler
 
 **Bulk change GitHub labels like a pro (or a mad scientist).**
