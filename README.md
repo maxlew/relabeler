@@ -76,8 +76,10 @@ Here’s what you can use to command the relabeler:
 
 5. **Run the Magic**:
     ```bash
-    ./relabel.js --from bug,help wanted --to feature --api-key YOUR_API_KEY --repo owner/repo
+    ./relabel.js --from "bug,help wanted" --to feature --api-key YOUR_API_KEY --repo owner/repo
     ```
+    
+    _Note: you'll need to quote the whole --from string if you have spaces in your labels... don't put spaces in labels kids._
 
 ---
 
